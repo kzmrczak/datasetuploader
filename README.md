@@ -1,5 +1,5 @@
 # datasetuploader
-![Screenshots](screenshots.png)
+![Screenshot](screenshot.png)
 
 Python based handwritten digits uploader  
 You can easily expand your handwritten dataset for neural network.
